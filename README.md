@@ -13,3 +13,5 @@ The following protocols are implemented in the network topology:
 7.OSPF
 8.ETHERNET
 9.NAT
+
+<img src="Hospital Network Toology.png" alt="Hospital Network Toology" width="1000" height="600">
