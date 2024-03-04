@@ -14,4 +14,4 @@ The following protocols are implemented in the network topology:
 8.ETHERNET
 9.NAT
 
-<img src="Hospital Network Toology.png" alt="Hospital Network Toology" width="1000" height="600">
+<img src="Hospital Network Topology.png" alt="Hospital Network Toology" width="1000" height="600">
